@@ -1,0 +1,6 @@
+{
+  "name": "Ruang Islam",
+  "description": "Platform pembelajaran agama Islam modern, interaktif, dan mudah dipahami dengan materi ibadah, wudhu, salat, puasa, Al-Qur'an, doa harian, dan akhlak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
